@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ジブンアップデート",
+  "base_artist": "Shiritsu Ebisu Chugaku",
+  "createdAt": "2025-12-26T02:08:47.982765Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ジブンアップデート",
+      "artist": "私立恵比寿中学",
+      "has_synced": false,
+      "path": "select/pl_01_ジブンアップデート_私立恵比寿中学.txt"
+    }
+  ]
+}
